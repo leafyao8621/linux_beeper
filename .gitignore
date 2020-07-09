@@ -1,0 +1,5 @@
+.vscode
+converter/main
+converter/src/*.o
+src/*.o
+main
